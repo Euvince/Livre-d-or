@@ -1,0 +1,20 @@
+{
+    "name": "euvince/exo",
+    "autoload": {
+        "psr-4": {
+            "Euvince\\Exo\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Daniel Capochichi",
+            "email": "danieleuvince2003@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "App\\": "Class/"
+        }
+    },
+    "require": {}
+}
